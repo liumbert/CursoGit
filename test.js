@@ -1,1 +1,1 @@
-modifado en registro
+modifado en GitHub
