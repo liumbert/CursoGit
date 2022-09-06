@@ -1,1 +1,2 @@
-modifado en GitHub
+//modifado en GitHub
+console.log("Hola mundo");
